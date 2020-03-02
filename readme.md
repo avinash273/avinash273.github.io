@@ -1,8 +1,7 @@
-# [Praveen Kumar](https://inboxpraveen.github.io) portfolio website
+# [Avinash Shanker](https://avinash273.github.io) portfolio website
 
-This is a static portfolio website hosted on GitHub pages. 
+This is a static portfolio website hosted on GitHub pages.
 
-Link to website: [https://inboxpraveen.github.io/](https://inboxpraveen.github.io)
+Link to website: [https://avinash273.github.io/](https://avinash273.github.io)
 
-For queries send mail to: [PRAVEEN](mailto:inbox.praveen.kumar17@gmail.com)
-
+For queries send mail to: [AVINASH](mailto:avinash.shanker@mavs.uta.edu)
